@@ -48,13 +48,5 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the terms of the license.
 
-## Contact
 
-If you have any questions or suggestions, feel free to reach out:
-
-- Email: [sultonov200v@gmail.com](mailto:sultonov200v@gmail.com)
-- LinkedIn: [Sultonov Saidmalik](linkedin.com/in/saidmalik-sultonov-a54bb425b)
-  
-
-Thank you for checking out the Tesla App UI project!
 
